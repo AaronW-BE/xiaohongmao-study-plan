@@ -1,2 +1,14 @@
-# xiaohongmao-study-plan
-小红帽的学习计划
+# Plan
+
+## General Plan
+### Language
+* HTML/CSS
+* Javascript
+  * NodeJS
+  
+### Special Point
+* Canvas
+
+### Framework
+* VueJS
+* ReactJS
